@@ -1,3 +1,0 @@
-C:/Users/mikef/CLionProjects/Tarea7/cmake-build-debug/CMakeFiles/Tarea7.dir
-C:/Users/mikef/CLionProjects/Tarea7/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mikef/CLionProjects/Tarea7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
